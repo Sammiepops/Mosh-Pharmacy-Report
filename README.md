@@ -1,3 +1,3 @@
 # Mosh-Pharmacy-Report
-This Report was done in order to analyses the Future trends for Mosh Pharmacy
+This Report analyses the Future trends for Mosh Pharmacy
 The recent population shift to urban areas and increasing accessibility of people to healthcare services has opened the doors for company’s Pharmaceutical industry’s to a broader target market. These emerging markets are becoming extremely important for pharma companies. However, for companies in the pharmaceutical industry, it becomes very essential to shift from a sales and marketing-focused model to an access-driven commercial model in order to tackle issues in the pharmaceutical industry. With healthcare becoming a top priority for governments worldwide, the pharmaceutical industry looks set for a bright future. However, it’s not without its challenges. Factors such as changing consumer attitudes, drug availability, affordability issues, and stringent government policies pose significant hurdles.
